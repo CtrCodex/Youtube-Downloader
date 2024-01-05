@@ -1,5 +1,6 @@
 # YouTube Downloader and Converter v0.2 Delta
-## Introduction
+
+# Introduction
 This Python script serves as a YouTube downloader and converter, utilizing the Pytube and MoviePy libraries. It provides functionalities for downloading individual videos, entire playlists, and converting videos to MP3 format.
 
 # Requirements
